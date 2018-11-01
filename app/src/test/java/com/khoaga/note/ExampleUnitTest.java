@@ -1,4 +1,4 @@
-package com.khoaga.dolist;
+package com.khoaga.note;
 
 import org.junit.Test;
 

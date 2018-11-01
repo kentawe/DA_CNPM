@@ -1,4 +1,4 @@
-package com.khoaga.dolist;
+package com.khoaga.note;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.khoaga.dolist", appContext.getPackageName());
+        assertEquals("com.khoaga.note", appContext.getPackageName());
     }
 }
